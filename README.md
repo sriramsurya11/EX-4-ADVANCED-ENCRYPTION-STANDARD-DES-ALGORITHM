@@ -64,7 +64,6 @@ int main()
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/4885b309-c2b6-4c0f-8655-b18e7a1354bd)
 
-## RESULT: 
-```
+## RESULT:
 Hence,to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
-```
+
